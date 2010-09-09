@@ -1,0 +1,4 @@
+h1. TerminalColours
+
+p. Simply, TerminalColour with proper SnowLeopard build settings.  Look into the fork's parents for docs... I didn't code it, I just fixed it.
+ 
